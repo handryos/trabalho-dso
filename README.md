@@ -89,7 +89,5 @@ dso-work/
 ```bash
 cd dso-work
 
-python3 -m venv .venv
-
 python3 main.py
 ```
